@@ -1274,7 +1274,9 @@ form input[type="submit"], form button, form input[type="reset"] {
     display: inline-block;
     vertical-align: middle; }
   #branding .logo {
-    margin-right: 10px; }
+    margin-right: 10px;
+    width: 200px;
+    height:64px; }
   #branding .site-title {
     font-size: 18px;
     font-size: 1.2857142857em;
